@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TI-A</string>
+    <string name="tombol_1">Button 1</string>
+    <string name="tombol_2">Button 2</string>
+</resources>
